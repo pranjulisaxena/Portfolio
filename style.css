@@ -276,7 +276,7 @@ button:hover::before {
     width: 50%;
     height: 100vh;
     /* min-height: 100vh; */
-    background: url('./img/pic2.jpg');
+    background: url('./img/pic1.jpg');
     background-position:contain;
     background-size: cover;
     z-index: 999;
